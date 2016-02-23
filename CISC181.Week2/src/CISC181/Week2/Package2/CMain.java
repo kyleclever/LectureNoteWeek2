@@ -50,6 +50,12 @@ public class CMain {
 		System.out.println(Character.isLetter(ch));
 		System.out.println(Character.isDigit(ch));
 		
+		System.out.println("_-----_");
+		System.out.println("Hello\bword");
+		System.out.println("wow\twow");
+		System.out.println("good\njob");
+		System.out.println("really\f");
+		System.out.println("ok\ray");
 		
 		
 		
